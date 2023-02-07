@@ -1,3 +1,4 @@
 # hello-world
 sample repository from week 2
-- JodieSiu
+ - Pritesh Patel
+ - Jodie Siu
